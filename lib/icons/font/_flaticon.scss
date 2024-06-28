@@ -1,0 +1,95 @@
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+.fimanager:before {
+    display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.flaticon-001-abrasive:before { content: "\f100"; }
+.flaticon-002-brush:before { content: "\f101"; }
+.flaticon-003-clamp:before { content: "\f102"; }
+.flaticon-004-corner:before { content: "\f103"; }
+.flaticon-005-cylinder:before { content: "\f104"; }
+.flaticon-006-welding:before { content: "\f105"; }
+.flaticon-007-soldering-iron:before { content: "\f106"; }
+.flaticon-008-welding:before { content: "\f107"; }
+.flaticon-009-welding:before { content: "\f108"; }
+.flaticon-010-welding:before { content: "\f109"; }
+.flaticon-011-soldering-iron:before { content: "\f10a"; }
+.flaticon-012-gas:before { content: "\f10b"; }
+.flaticon-013-angle-grinder:before { content: "\f10c"; }
+.flaticon-014-hammer:before { content: "\f10d"; }
+.flaticon-015-welding-mask:before { content: "\f10e"; }
+.flaticon-016-pressure-gauge:before { content: "\f10f"; }
+.flaticon-017-welding:before { content: "\f110"; }
+.flaticon-018-apron:before { content: "\f111"; }
+.flaticon-019-gloves:before { content: "\f112"; }
+.flaticon-020-welding-machine:before { content: "\f113"; }
+.flaticon-021-power-cable:before { content: "\f114"; }
+.flaticon-022-welder:before { content: "\f115"; }
+.flaticon-023-welder:before { content: "\f116"; }
+.flaticon-024-googles:before { content: "\f117"; }
+.flaticon-025-googles:before { content: "\f118"; }
+.flaticon-026-welding-machine:before { content: "\f119"; }
+.flaticon-027-welding-mask:before { content: "\f11a"; }
+.flaticon-028-metal:before { content: "\f11b"; }
+.flaticon-029-welding:before { content: "\f11c"; }
+.flaticon-030-welder:before { content: "\f11d"; }
+
+$font-Flaticon-001-abrasive: "\f100";
+$font-Flaticon-002-brush: "\f101";
+$font-Flaticon-003-clamp: "\f102";
+$font-Flaticon-004-corner: "\f103";
+$font-Flaticon-005-cylinder: "\f104";
+$font-Flaticon-006-welding: "\f105";
+$font-Flaticon-007-soldering-iron: "\f106";
+$font-Flaticon-008-welding: "\f107";
+$font-Flaticon-009-welding: "\f108";
+$font-Flaticon-010-welding: "\f109";
+$font-Flaticon-011-soldering-iron: "\f10a";
+$font-Flaticon-012-gas: "\f10b";
+$font-Flaticon-013-angle-grinder: "\f10c";
+$font-Flaticon-014-hammer: "\f10d";
+$font-Flaticon-015-welding-mask: "\f10e";
+$font-Flaticon-016-pressure-gauge: "\f10f";
+$font-Flaticon-017-welding: "\f110";
+$font-Flaticon-018-apron: "\f111";
+$font-Flaticon-019-gloves: "\f112";
+$font-Flaticon-020-welding-machine: "\f113";
+$font-Flaticon-021-power-cable: "\f114";
+$font-Flaticon-022-welder: "\f115";
+$font-Flaticon-023-welder: "\f116";
+$font-Flaticon-024-googles: "\f117";
+$font-Flaticon-025-googles: "\f118";
+$font-Flaticon-026-welding-machine: "\f119";
+$font-Flaticon-027-welding-mask: "\f11a";
+$font-Flaticon-028-metal: "\f11b";
+$font-Flaticon-029-welding: "\f11c";
+$font-Flaticon-030-welder: "\f11d";
